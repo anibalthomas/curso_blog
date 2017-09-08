@@ -1,0 +1,3 @@
+<div style="text-align: center; padding: 7px 0; color: #464646; background-color: #ffdf00; font-size: 14px">
+	Este sitio es una demostración de lo que construimos en la serie <a style="color:#757575; text-decoration: underline" href="https://aprendible.com/series/desarrollo-blog">Desarrollo de un blog con Laravel</a> <br> Puedes acceder a la  <a style="text-decoration: underline" href="/admin">administración</a> con el usuario jorge@aprendible.com y la contraseña 123123
+</div>
